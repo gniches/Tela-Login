@@ -1,0 +1,91 @@
+body {
+    background: #012041;
+    background: linear-gradient(to right, #000b1a, #144566);
+}
+
+#login-Page {
+    padding-top: 100px;
+}
+
+.card-signin {
+    border: 0;
+    border-radius: 2rem;
+    box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.card-signin .card-title {
+    margin-bottom: 2rem;
+    font-weight: 300;
+    font-size: 1.5rem;
+}
+
+.card-signin .card-img-left {
+    width: 45%;
+    background: scroll center url('./images/BackgroundTheme.jpg'); /*Adiciona imagem*/
+    background-size: cover;
+    filter: blur(2px);    /*Adiciona efeito blur*/
+}
+
+.card-signin .card-body {
+    padding: 2rem;
+  }
+
+.form-signin {
+    width: 100%;
+}
+
+#passwordHelp, #checkbox {
+    text-align: center;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: whitesmoke;
+    text-align: center;    
+    font: bolder;
+}
+
+#loged {
+    display: none;
+}
+
+.navbar {
+    border-radius: 15px;
+}
+
+.rounded-circle{
+    max-width: 30px;
+    max-height: 30px;
+}
+
+.nav-item {
+    display: flex;
+    justify-content: flex-end;
+}
+
+#home-text {
+    float: left;
+}
+
+#navbarDropdownMenuLink {
+    float: right;
+}
+
+.hr-page2 {
+    border-top: 1px solid whitesmoke;
+    background: linear-gradient(to right, whitesmoke, white);
+    height: 1px;    
+}
+
+h4 {
+    display: flex;
+    justify-content: center;
+    color: whitesmoke;
+    margin-bottom: 20px;
+
+}
+
