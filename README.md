@@ -9,4 +9,4 @@ Arquivos da versão 1.0 do projeto de tela de login formação FullStack Develop
 Utilização de HTML, CSS, BootStrap e Vanilla JS.
 
 ##
-Desenvolvido por Guilherme Niches | 2020
+Em desenvolvimento | 2020
